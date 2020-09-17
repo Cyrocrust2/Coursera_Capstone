@@ -1,5 +1,5 @@
 
-Seattle Traffic Accident Severity Prediction - Part 2
+Seattle Traffic Accident Severity Prediction 
 1. Data Section
     The dataset regarding to this project contains all kinds of collisions in Seattle from 2004 to 2020. To predict the damage level of road accidents, the indicator 'SEVERITUCODE' is chosen as the dependent variable. Normally, the degree of collision climbs up from property damage, injury, serious injury finally to fatality. Among dozens of attributes, this project concentrates on both nature and human factors which may lead to car accidents. Nature factors are made up by 'WEATHER','ROADCOND' and 'LIGHTCOND' which represents weather, road and view circumstance respectively. On the other hand, human factors usually reflects the status of drivers such as 'INATTENTIONIND','UNDERINFL', and 'SPEEDING' which shows the concentration of drivers mind, drug or alcohol influence and overspeed.
 Attribute	Data type, length	Description
