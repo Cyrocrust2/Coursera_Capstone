@@ -1,5 +1,5 @@
 
-Seattle Traffic Accident Severity Prediction - Part 1
+Seattle Traffic Accident Severity Prediction 
 1. Introduction
     Traffic accident has risen to the 3rd major reason of mortality among countries by 2020, which also has a negative impact on economical society. Citizens feel lack of security when they drive on roads, cross the street or even walk along the pedestrain. Vehicle manufactures have invested large amount of professionals and fundings to increase the quality of vehicles but all these efforts have less contribution to traffic rushes. It is the time for government to make some actions in order to find out the main causes of traffic accidents. Seattle Department of Transportation provides traffic accident cases from 2004 for almost 15 years to discover the reasons behind these collisions.
 2. Business Problem
