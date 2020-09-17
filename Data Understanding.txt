@@ -1,0 +1,5 @@
+Data Understanding
+
+Our predictor or target variable will be 'SEVERITYCODE' because it is used measure the severity of an 
+accident from 0 to 5 within the dataset. Attributes used to weigh the severity of an accident are 
+'WEATHER', 'ROADCOND' and 'LIGHTCOND'.
